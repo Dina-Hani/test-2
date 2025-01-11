@@ -21,7 +21,7 @@ to understand patient demographics, satisfaction, and wait times, and identify p
 - Satisfaction Trends: The average satisfaction score is 5.47, with Pacific Islanders and Asian  showing the highest satisfaction in certain scenarios and 72.69% of patients did not provide a rating.
 - Wait Times: Average wait time of 35.26 minutes, with some racial groups experiencing longer wait times than others. 
 - Departmental Distribution: The majority of patient visits are in General Practice (1,840) the top-referred department, followed by Orthopedics (995), while departments like Renal and Gastroenterology manage fewer cases.
--Visit Trends: Weekdays have higher patient visits (6,574), with August being the busiest month (1,024 visits).
+- Visit Trends: Weekdays have higher patient visits (6,574), with August being the busiest month (1,024 visits).
 ## Final conclusion
 
 
