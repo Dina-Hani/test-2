@@ -1,6 +1,5 @@
 ## Patients ER Visits Report Using Power Bi
 
-
 ## Project Objective
 The objective of this project is to analyze and report on emergency room (ER) patient visits
 to understand patient demographics, satisfaction, and wait times, and identify patterns that can enhance service quality and operational efficiency.
@@ -12,7 +11,6 @@ to understand patient demographics, satisfaction, and wait times, and identify p
 - How do patient visits vary across months, years, and week types (weekday vs. weekend)?
 - What is the distribution of administrative versus non-administrative patients?
 - Which departments handle the highest number of referrals, and how satisfied are patients with their services?
-## 
 ##  Dashboard Interaction
 - <a href= "https://github.com/Dina-Hani/test-2/blob/main/Patients%20ER%20Visits%20Dashboard%20Using%20Power%20Bi/ER%20patients%20Report.pbix " > The Dashboard in Power bi
 ## Process
@@ -33,4 +31,4 @@ The data suggests that:
 - Enhancing patient satisfaction, particularly in departments with lower ratings, through targeted quality improvement initiatives.
 - Targeted interventions in specific departments and demographic groups could enhance overall patient experience.
 - Continuous monitoring and data-driven strategies are recommended to sustain improvements and address emerging trends.
-
+## ****
