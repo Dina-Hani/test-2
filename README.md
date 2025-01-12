@@ -1,9 +1,4 @@
 ## Patients ER Visits Report Using Power Bi
-
-![Screenshot 2025-01-12 062846](https://github.com/user-attachments/assets/572a09f1-54ba-4ff0-9512-e2ac0a95b02a)
-
-![Screenshot 2025-01-12 063141](https://github.com/user-attachments/assets/c79f50d8-5edb-4adb-b4a4-e39c4973b41e)
-
 ## Project Objective
 The objective of this project is to analyze and report on emergency room (ER) patient visits
 to understand patient demographics, satisfaction, and wait times, and identify patterns that can enhance service quality and operational efficiency.
@@ -22,6 +17,11 @@ to understand patient demographics, satisfaction, and wait times, and identify p
 - Data Cleaning and Transformation: - Verify data for any missing and inconsistent values, and sort out the same.
 - Data Visualization: Built an interactive Power BI dashboard showcasing KPIs and trends across demographics, time periods, and departments.
 - Filtering Features: Added filters and slicers for analysis and comparative parameter selection (e.g., satisfaction score vs. wait time).
+# Report Snapshot (Power BI DESKTOP)
+![Screenshot 2025-01-12 062846](https://github.com/user-attachments/assets/572a09f1-54ba-4ff0-9512-e2ac0a95b02a)
+
+![Screenshot 2025-01-12 063141](https://github.com/user-attachments/assets/c79f50d8-5edb-4adb-b4a4-e39c4973b41e)
+
 ## Project Insight
 - Patient Volume: The total number of ER patient visits is 9,216, with 41.41% being referred patients and 58.59% unreferred, most patients are adults (7,106 visits).
 - Satisfaction Trends: The average satisfaction score is 5.47, with Pacific Islanders and Asian  showing the highest satisfaction in certain scenarios and 72.69% of patients did not provide a rating.
