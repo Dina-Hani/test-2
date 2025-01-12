@@ -1,4 +1,6 @@
 ## Patients ER Visits Report Using Power Bi
+https://github.com/user-attachments/assets/572a09f1-54ba-4ff0-9512-e2ac0a95b02a
+https://github.com/user-attachments/assets/c79f50d8-5edb-4adb-b4a4-e39c4973b41e
 
 ## Project Objective
 The objective of this project is to analyze and report on emergency room (ER) patient visits
